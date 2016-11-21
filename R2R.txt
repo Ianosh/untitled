@@ -1,0 +1,21 @@
+Resolume KeyGen Release
+
+1.Uninstall previous versions.
+2.Install the software.
+3.Replace *.app/MacOSX/* with our patched one.
+  Give the specifc permission to the application.
+Open one Terminal and type:
+
+sudo chmod -R 777 (drag and drop .app)… Enter.
+
+You passwd user…
+
+4.Run our Keygen on Windows _or KEYGEN APP OS X and select a product.
+5.Run the software and open prefereces -> registration.
+6.Start Offline Registration and copy ID Code to our keygen.
+7.Generate a license.
+8.Load that license from the software.
+9.Enjoy!
+
+TEAM R2R 2015
+-------------------------------------------------------------------------------------
