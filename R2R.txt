@@ -6,7 +6,7 @@ Resolume KeyGen Release
   Give the specifc permission to the application.
 Open one Terminal and type:
 
-sudo chmod -R 777 (drag and drop .app)… Enter.
+
 
 You passwd user…
 
